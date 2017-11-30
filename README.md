@@ -1,1 +1,1 @@
-<p align="center"><img width="356" height="338" src="https://raw.githubusercontent.com/ScienceOS/scienceos.github.io/master/misc/tuxpcpi.png"></p>
+<p align="center"><img width="356" height="356" src="https://raw.githubusercontent.com/ScienceOS/scienceos.github.io/master/misc/scienceos-logo.png"></p>
