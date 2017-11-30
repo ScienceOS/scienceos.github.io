@@ -1,1 +1,9 @@
+repository: scienceos.github.io/scienceos
 theme: jekyll-theme-minimal
+name: ScienceOS
+title: ScienceOS
+description: a distro with PhD in Biology
+author: Menegidio, F.B.
+author_email: fabiano.menegidio@biology.bio.br
+
+show_downloads: true
